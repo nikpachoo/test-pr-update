@@ -2,8 +2,7 @@ name: autoupdate
 on:
   push:
     branches:
-      - master
-      - nikpachoo-patch-1
+      - main
 
 jobs:
   autoupdate:
