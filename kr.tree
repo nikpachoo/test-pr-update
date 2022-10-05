@@ -108,6 +108,7 @@
         <toc-element id="annotations.md"/>
         <toc-element id="destructuring-declarations.md" accepts-web-file-names="multi-declarations.html"/>
         <toc-element id="reflection.md"/>
+        <toc-element id="new-track.md"/>
     </toc-element>
 
     <toc-element toc-title="Multiplatform development">
@@ -194,6 +195,7 @@
             <toc-element id="js-ir-migration.md"/>
 
             <toc-element toc-title="Kotlin for the JS platform">
+                <toc-element id="new-chapter.md"/>
                 <toc-element id="browser-api-dom.md"/>
                 <toc-element id="js-interop.md" accepts-web-file-names="calling-javascript-from-kotlin.html"/>
                 <toc-element id="dynamic-type.md"/>
